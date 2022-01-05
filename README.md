@@ -3,9 +3,11 @@ As our graduation project we were to choose any type of developmet project after
 
 # Betrayal-Camp-Game
  Betryal Camp was an idea to make an online game where 5-10 players are spawn into an island, some of the players are Traitos and some are inocents, the game will last 10 minutes. 
+ 
  how will traitors win the game:
  1. elemenate all inocent players 
  2. the inocents don't finish all of their tasks before time
+ 
  how will inocents win the game:
  1. finish all tasks
  2. elemenate all traitors
