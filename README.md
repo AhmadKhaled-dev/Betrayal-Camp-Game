@@ -1,17 +1,26 @@
 # introduction
-As our graduation project we were to choose any type of developmet project after discussing with all team members we chose to go with creating a game noun of us had any experince in creating games before but we took the challenge 
+As our graduation project we were to choose any type of development project, after discussing with all team members we chose to go with creating a game, noun of us had any experience in creating games before, but we took the challenge, we faced some issues but we managed to deliver at time and 
 
 # Betrayal-Camp-Game
- Betryal Camp was an idea to make an online game where 5-10 players are spawn into an island, some of the players are Traitos and some are inocents, the game will last 10 minutes. 
+ Betrayal Camp was an idea to make an online game where 5-10 players are spawn into an island, some of the players are Traitors and some are innocents, the game will last 10 minutes. 
  
  how will traitors win the game:
- 1. elemenate all inocent players 
- 2. the inocents don't finish all of their tasks before time
+ 1. eliminate all innocent players 
+ 2. the innocents don't finish all of their tasks before time
  
- how will inocents win the game:
+ how will innocents win the game:
  1. finish all tasks
- 2. elemenate all traitors
- the traitors will try to elemenate all inocent players before the Inocent complete the tasks they're assigned to do. In our initail lunch we made 3 main task if all inocent mmembers do they will win the game 
- 
+ 2. eliminate all traitors
+
 # tools Used
-1. we choose "Unity" as our game Engine 
+1.	we choose "Unity" as our game Engine (C#)
+2.	Photon PUN as our Networking solutions
+3.	mixamo.com a free source for character animations
+
+
+# team members 
+1.	ADEL ALTHUBAITY
+2.	AHMAD KHALED 
+3.	AHMED MELIBARI
+4.	ALYAS AL ABBADI
+5.	ELYAS ALKHALAF
